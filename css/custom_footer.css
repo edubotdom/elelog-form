@@ -1,0 +1,16 @@
+footer {
+	background-color: #6A6ABD;
+	border-top: 2px solid black;
+	border-bottom: 0px;
+	position: fixed;
+	width: 100%;
+	bottom: 0;
+	clear: both;
+}
+
+
+p.custom_footer {
+	text-align: center;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 20px;
+}
